@@ -1,0 +1,5 @@
+com\mycompany\helper\FakeData.class
+com\mycompany\model\Productmodel.class
+com\mycompany\controller\SearchController.class
+com\mycompany\view\MainView$1.class
+com\mycompany\view\MainView.class
